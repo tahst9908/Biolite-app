@@ -1,0 +1,1 @@
+// Firebase service for auth and database interaction
